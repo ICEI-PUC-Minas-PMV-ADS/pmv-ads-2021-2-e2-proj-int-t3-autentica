@@ -1,23 +1,24 @@
-# TÍTULO DO PROJETO
+# PROJETO E-COMMERCE: AUTÊNTICA
 
-`CURSO`
+`Análise e Desenvolvimento de Sistemas`
 
-`DISCIPLINA`
+`Projeto de Desenvolvimento de Aplicação Interativa`
 
-`SEMESTRE`
+`2º semestre`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Com os dados expostos no relatório, fica claro o crescimento do e-commerce sobretudo como forma de renda extra para a população, principalmente em uma situação de pandemia, diante disso aumenta a procura por softwares e plataformas que impulsionem as vendas de forma mais rendável e eficaz para o microempreendedor.
+O objetivo geral do projeto é desenvolver uma aplicação web interativa que facilite e proporcione eficiência nas vendas online do micro e pequeno vendedor focado no vestuário feminino.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Amanda Adriene Rodrigues Candido
+* Fabiola Lourdes dos Santos Cruz
+* Lidia Niobey Frossard
+
 
 ## Orientador
 
-* Nome completo do professor 1
+* José Wilson da Costa
 
 ## Instruções de utilização
 
