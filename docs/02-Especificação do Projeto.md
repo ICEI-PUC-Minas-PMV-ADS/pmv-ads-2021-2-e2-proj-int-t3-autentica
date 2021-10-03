@@ -8,7 +8,7 @@ Neste projeto, com o escopo de criar uma aplicação interativa de vendas online
 
 As personas levantadas durante o processo de entendimento do problema são: 
 
-Talita Machado, 35 anos, advogada sênior, atua em uma multinacional de telecomunicação e possui especialização na área de compliance.
+•	Talita Machado, 35 anos, advogada sênior, atua em uma multinacional de telecomunicação e possui especialização na área de compliance.
 
 Aplicativos 
 
@@ -52,7 +52,7 @@ Hobbies, História 
 
 •	Começou a fazer terapia, já que com a quarentena ficou mais estressada.  
 
-Letícia Rocha, 25 anos,estudante de engenharia civil, atualmente é estagiária em uma grande empresa de gerenciamento de obras.   
+•	Letícia Rocha, 25 anos,estudante de engenharia civil, atualmente é estagiária em uma grande empresa de gerenciamento de obras.   
 
 Aplicativos 
 
@@ -94,7 +94,7 @@ Hobbies, História
 
 •  Atualmente mora com seus pais e planeja morar com duas amigas em breve 
 
-Domique Xavier , 30 anos,recepcionista em um hospital de cardiologia, no momento é estudante em técnica de enfermagem 
+•	Domique Xavier , 30 anos,recepcionista em um hospital de cardiologia, no momento é estudante em técnica de enfermagem 
 
 Aplicativos 
 
@@ -140,7 +140,7 @@ Hobbies, História
 
 •	Sonha um dia conseguir se formar como enfermeira 
 
-Marcos Barbosa,33 anos, chefe de cozinha, trabalha em seu recém-inaugurado bistrô de cozinha contemporânea 
+•	Marcos Barbosa,33 anos, chefe de cozinha, trabalha em seu recém-inaugurado bistrô de cozinha contemporânea 
 
 Aplicativos 
 
@@ -186,7 +186,7 @@ Hobbies, História
 
 •    Costuma fazer compras online e gosta de presentear sua noiva 
 
- Carla Almeida, 22 anos, operadora de caixa em uma rede de hipermercados  
+•	 Carla Almeida, 22 anos, operadora de caixa em uma rede de hipermercados  
 
 Aplicativos 
 
