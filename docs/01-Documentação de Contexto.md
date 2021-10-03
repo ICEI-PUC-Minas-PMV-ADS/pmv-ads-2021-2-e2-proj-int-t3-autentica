@@ -1,35 +1,51 @@
-# Introdução
 
-Cada dia que passa, a informação tem se tornado o ativo mais importante na vida de pessoas e das organizações. Informações precisas, imparciais e obtidas no momento exato são fundamentais para se orientar nesse mundo de grandes incertezas.
 
-Em paralelo, tem-se observado um movimento em todo o mundo de resgate do nacionalismo e isso tem acirrado as discussões entre correntes de pensamento antagônicos. Diversos movimentos radicais têm surgido em diferentes regiões do mundo e, de maneira cada vez mais frequente, têm se utilizado dos canais de informação através de notícias falsas para arrebanhar novos simpatizantes. Ao mesmo tempo, alguns meios de comunicação menos confiáveis, acabam adotando um editorial que limita o perfil de notícias apresentado, comprometendo o universo de informação visualizado por seus usuários. Isto é muito prejudicial para a democracia e a liberdade. Ainda, nas redes sociais, as escolhas dos algoritmos de inteligência artificial têm criado uma restrição no tipo de informação que é apresentada aos usuários, conforme discutido por Bakshy et. al (2015). 
+## Introdução
+No final de 2019, foi descoberta uma nova variedade do Coronavirus (Covid-19) após casos confirmados na China, se espalhando rapidamente pelo mundo. O primeiro caso confirmado no Brasil ocorreu em fevereiro de 2020. Segundo a Organização Mundial de Saúde (OMS), a principal maneira pela qual a doença se espalha é através de gotículas respiratórias expelidas por alguém que está contaminado pelo SARS-CoV-2. A recomendação da OMS foi o uso de máscaras, higienização constante das mãos e o distanciamento social. Muitos países adotaram o “lockdown” como medida preventiva de controle da disseminação do vírus, fazendo com que a economia diminuísse drasticamente seu ritmo e o resultado disso foi uma onda de desemprego no país.  
 
-Diante disso, torna-se fundamental que existam canais informação e mecanismos que permitam ao usuário acessar um conteúdo diverso e sem vieses que limitem a sua condição de se informar de maneira adequada diante dos fatos que acontecem no mundo.  
+A Pesquisa Nacional de Amostra de Domicílios (Pnad Covid19) do IBGE aponta a taxa de desemprego atual no país em 14%, o que representa aproximadamente 13,5 milhões de brasileiros desempregados. A pesquisa revela ainda aumento em 40% da informalidade como forma de sustento. Uma reportagem recente do jornal O Globo mostra uma crise aguda na economia na América Latina, uma queda de 7,7% no PIB, e que a pobreza atingiu cerca de 33,7% de toda a população da América Latina. Os dados são da Comissão Econômica para América Latina e Caribe (CEPAL).  
 
-## Problema
+Após a constatação desses dois cenários observa-se o crescimento considerável nas vendas online, em uma amostra realizada pela Ebit/ Nielsen revela um crescimento no ano de 2020 de 47% e também aponta um crescimento médio de 17% ao ano até 2024, para os clientes é mais vantajoso pois é mais seguro devido à propagação do novo coronavírus, e para as empresas é mais econômico e proporciona uma venda personalizada. Em uma pesquisa de 2020 realizada pela BigData Corp. e pelo Paypal o Brasil tem hoje 1,3 milhão de lojas online, sendo a maior aceleração registrada desde 2015. A amostra revela ainda que quase metade é composta por lojas de pequeno porte, sendo sua a maioria situada em São Paulo (59%), seguido do Rio de Janeiro (7%) e Minas Gerais com 6,2%. 
 
-Conforme exposto, o problema que se busca resolver com este projeto é a limitação que os canais tradicionais de informação têm criado para os usuários que buscam se informar sobre os diversos assuntos do seu cotidiano, com confiabilidade, agilidade e imparcialidade. 
+Para o microempreendedor as vendas virtuais ainda são um desafio devido principalmente as altas taxas cobradas pelas plataformas de vendas, como sites, aplicativos e até mesmo redes sociais. Diante deste cenário o projeto pretende elaborar uma aplicação interativa de vendas de vestuário feminino para o micro e pequeno empresário, focado na venda de vestuário feminino. 
 
-## Objetivos
+## Problema 
 
-O objetivo geral deste trabalho é a criação de um portal de notícias que apresente ferramentas de fácil uso e que permita o acesso a um universo variado e isento de notícias e informações sobre fatos em diversas áreas.  
+Conforme mostrado, o problema que se pretende resolver é a falta de um software e plataforma que otimize a venda online do pequeno empreendedor de roupas femininas. 
+ 
+
+## Objetivos	 
+
+Geral 
+
+O objetivo geral do projeto é desenvolver uma aplicação web interativa que facilite e proporcione eficiência nas vendas online do micro e pequeno vendedor focado no vestuário feminino. 
+
+## Específicos  
 
 Como objetivos específicos, podemos ressaltar: 
 
-Fornecer funcionalidades que permitam interagir com as notícias apresentadas por meio de comentários e pelo compartilhamento das notícias em redes sociais; 
+melhora na gestão de estoque;  
 
-Integrar com centrais de notícias espalhadas na Internet. 
+aperfeiçoar a relação com o cliente; 
 
-Permitir a criação de canais personalizados por usuário com tópicos de interesse individual. 
+criar agilidade nos mecanismos de busca do mostruário; 
 
-## Justificativa
+otimizar o funil de vendas; 
 
-Em estudo da Reuters, realizado com um grupo de 74 mil pessoas, em 37 países diferentes, fica claro o volume preocupante de informações falsas sendo propagadas  (NEWMAN et al; 2019). O estudo apresenta que no brasil 35% dos entrevistados informam que as informações consumidas são completamente inventadas.  
+compreender a jornada do cliente; 
 
-Adicionalmente, há uma falta de canais de notícias isentos e objetivos que permitam aos usuários, leitores frequentes de jornais, possam ter a mesmo experiência dos jornais tradicionais em ferramentas digitais.  
+ 
 
-## Público-Alvo
-Embora todas as pessoas possam se beneficiar de soluções isentas para se informarem, o foco deste trabalho está no público que tem o hábito de ler notícias nos contextos das suas áreas de atuação com o intuito de ampliarem sua condição de atuarem profissionalmente. 
+## Justificativa 
 
-Desta forma, estabeleceu-se como público-alvo desta solução os homens e as mulheres entre 30 e 45 anos que se encontram em oportunidades de trabalho que exigem constante atualização e que fazem uso frequente de computadores e dispositivos móveis para se atualizarem com tópicos que vão além dos assuntos relacionados às suas atividades profissionais. 
+Com os dados anteriormente expostos, fica claro o crescimento do e-commerce sobretudo como forma de renda extra para a população, principalmente em uma situação de pandemia, diante disso aumenta a procura por softwares e plataformas que impulsionem as vendas de forma mais rendável e eficaz para o microempreendedor. 
 
+ 
+
+## Público-alvo 
+
+O público-alvo é definido basicamente por: 
+
+mulheres diversas – gênero, idade, raça e medidas, entre 24 e 40 anos, dentro do território nacional; e  
+
+homens, entre 24 e 40 anos, dentro do território nacional, que possuem interesse em comprar para suas companheiras, irmãs e amigas.
