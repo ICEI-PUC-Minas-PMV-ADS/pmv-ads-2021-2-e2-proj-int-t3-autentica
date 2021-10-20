@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace autentica.Models
 {
-    [Table("Clientes")] 
-    public class Cliente
+    [Table("clientes")] 
+    public class cliente
     {
         public int Id { get; set; }
         public string Nome { get; set; }
